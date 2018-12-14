@@ -1,0 +1,7 @@
+region=cn-north-1
+endpoint=https://dis.cn-north-1.myhuaweicloud.com
+ak=YOU_AK
+sk=YOU_SK
+projectId=YOU_PROJECTID
+# You dis stream name
+input.stream.name=input
